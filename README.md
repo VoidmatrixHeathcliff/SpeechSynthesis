@@ -1,0 +1,2 @@
+# SpeechSynthesis
+Python实现的百度语音合成助手客户端
